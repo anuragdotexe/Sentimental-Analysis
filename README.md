@@ -1,3 +1,5 @@
+# This README covers various types of sentiment analysis, making it suitable for a general-purpose repository
+
 # 📝 Sentiment Analysis Project
 
 ## 📋 Overview
